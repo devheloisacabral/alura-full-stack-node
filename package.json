@@ -1,0 +1,23 @@
+{
+  "name": "alura-books-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/devheloisacabral/alura-full-stack-node.git"
+  },
+  "author": "Dev Heloisa Cabral",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devheloisacabral/alura-full-stack-node/issues"
+  },
+  "homepage": "https://github.com/devheloisacabral/alura-full-stack-node#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  }
+}
