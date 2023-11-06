@@ -1,4 +1,4 @@
-# Alura Full Stack Node.js 💻
+# Alura Full Stack Node.JS 💻
  Este repositório contém o código desenvolvido durante o curso de Node.js da empresa Alura. Durante o curso, foram explorados diversos tópicos importantes para o desenvolvimento full stack com Node.js. Abaixo estão os tópicos estudados no curso:
 
  Introdução ao Node.js: Introdução ao ambiente de execução JavaScript do lado do servidor. 🚀
