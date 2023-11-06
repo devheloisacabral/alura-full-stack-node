@@ -9,7 +9,7 @@
 
  Request e Response: Manipulação de requisições e respostas HTTP no servidor. 📡
 
- APIs: Construção de APIs para comunicação entre diferentes partes de um aplicativo. 🌐
+ APIs: Construção de APIs para comunicação entre diferentes partes de um sistema. 🌐
 
  Rotas e Protocolo HTTP: Entendimento e implementação de rotas para manipulação de diferentes URLs. 🛣️
 
